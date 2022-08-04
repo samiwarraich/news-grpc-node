@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "grpc-server": "node ./server.js",
-    "grpc-client": "node ./test.js"
+    "start:server": "node ./server.js",
+    "start:client": "node ./test.js"
   },
   "keywords": [],
   "author": "",
